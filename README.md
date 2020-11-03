@@ -1,2 +1,2 @@
-# controller-windows-part-1
-WIP 
+THIS IS THE SCRIPT THAT MAKES THE MOUSE MOVE BY 10PX VIA D-PAD
+                       #PLEASE ENJOY#
